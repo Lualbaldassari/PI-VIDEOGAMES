@@ -1,0 +1,16 @@
+.error {
+    margin: 0;
+    padding: 0;
+}
+
+.error img {
+    height: 50%;
+    /* width: 60%; */
+}
+
+.error h1 {
+    padding-bottom: 40px;
+    font-size: 40px;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+}
