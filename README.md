@@ -8,10 +8,15 @@
 
 ## Project Goals: 
 
-- Build an upp using react,redux,node and sequelize.
-- Learn Git's workflow.
-- Learn and practice the basic concepts of testing.
+- Build an upp using react,redux,node and sequelize(DONE)
+- Learn Git's workflow(DONE)
+- Learn and practice the basic concepts of testing(DONE)
 
+## Next features :
+
+- I'm currently learning about deployement
+- I succesfully deployed the front-end, however I tryng to join it with the backend
+- Here is a preview : https://videogames-kopi-c7g4h96wb-lualbaldassari.vercel.app/
 
 ## Enunciado
 
