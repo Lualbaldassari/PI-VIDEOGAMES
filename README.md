@@ -15,7 +15,7 @@
 ## Next features :
 
 - I'm currently learning about deployement
-- I succesfully deployed the front-end, however I tryng to join it with the backend
+- I succesfully deployed the front-end, however I'm trying to join it with the backend
 - Here is a preview : https://videogames-kopi-c7g4h96wb-lualbaldassari.vercel.app/
 
 ## Enunciado
