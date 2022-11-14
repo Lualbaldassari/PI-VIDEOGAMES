@@ -31,7 +31,7 @@ The general idea is to create an application in which the different available vi
 ![LandingPage](https://user-images.githubusercontent.com/35942892/201695671-65424497-2f09-4e68-bf72-d68a4ad27ff3.gif)
 
 ## HOME !
-![Home](https://user-images.githubusercontent.com/35942892/199513677-8b6b66b0-39c1-4826-8538-16e9cc7e52e9.PNG)
+![HomeIntro](https://user-images.githubusercontent.com/35942892/201696076-e135b4a3-5fb0-421d-a86d-69833e7c342f.gif)
 
 ## Videogame Details!
 ![Details](https://user-images.githubusercontent.com/35942892/199514346-538a0e96-9036-4b0b-93aa-0a6f7db64749.PNG)
