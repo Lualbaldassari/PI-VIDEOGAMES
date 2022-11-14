@@ -28,7 +28,7 @@ The general idea is to create an application in which the different available vi
 
 
 ## Landing Page !
-![Landing](https://user-images.githubusercontent.com/35942892/199513355-dd2f6e10-af7c-4e9b-87b6-40d7bbec7172.PNG)
+![LandingPage](https://user-images.githubusercontent.com/35942892/201695671-65424497-2f09-4e68-bf72-d68a4ad27ff3.gif)
 
 ## HOME !
 ![Home](https://user-images.githubusercontent.com/35942892/199513677-8b6b66b0-39c1-4826-8538-16e9cc7e52e9.PNG)
