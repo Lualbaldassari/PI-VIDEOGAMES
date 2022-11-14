@@ -34,13 +34,13 @@ The general idea is to create an application in which the different available vi
 ![HomeIntro](https://user-images.githubusercontent.com/35942892/201696076-e135b4a3-5fb0-421d-a86d-69833e7c342f.gif)
 
 ## Videogame Details!
-![Details](https://user-images.githubusercontent.com/35942892/199514346-538a0e96-9036-4b0b-93aa-0a6f7db64749.PNG)
+![details](https://user-images.githubusercontent.com/35942892/201696535-57599251-6c4b-4ea0-b35f-1f0faa7e6828.gif)
 
 ## Pagination!
-![Pagination](https://user-images.githubusercontent.com/35942892/199514724-e68972c6-5a23-4b74-8d72-7b3e09c18f24.PNG)
+![pagination](https://user-images.githubusercontent.com/35942892/201697031-74f79e94-efcc-4658-9a3b-b5a4d155d940.gif)
 
 ## Add a new game!
-![Add](https://user-images.githubusercontent.com/35942892/199514980-696b198e-b736-40c7-9da9-b72e37d2a11c.PNG)
+![create](https://user-images.githubusercontent.com/35942892/201697386-66771a44-85d3-4b92-85f0-58d1523b1864.gif)
 
 
 
