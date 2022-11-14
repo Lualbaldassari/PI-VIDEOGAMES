@@ -3,7 +3,7 @@
 # Individual Project - Henry Videogames
 
 <p align="right">
-  <img height="200" src="./videogame.png" />
+  <img height="200" src="https://media.tenor.com/Wca_uBD_CkQAAAAS/ps1startup-ps1.gif" />
 </p>
 
 ## Project Goals: 
